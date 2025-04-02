@@ -1,0 +1,8 @@
+{
+    "language": "nodejs",
+    "runtime": "nodejs18.x",
+    "dependencies": {},
+    "environment_variables": {
+      "TABLE_NAME": "${target_table}"
+    }
+  }
